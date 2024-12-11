@@ -1,7 +1,7 @@
 # Quizzoc
 
 Quizzoc is an AI-powered quiz generator that allows users to upload PDF files, extract questions, and automatically generate a quiz. The application processes the PDF to identify questions and answers, then generates multiple-choice questions (MCQs) using AI. The generated quiz can be answered interactively on a frontend.
-
+LIVE URL=https://quizzoc013.netlify.app/
 ## Features
 - **Upload PDF**: Users can upload a PDF file containing questions, and the system will automatically parse and extract them.
 - **AI-powered MCQs**: The extracted questions are processed to generate multiple-choice questions (MCQs) with options.
@@ -27,7 +27,7 @@ Quizzoc is an AI-powered quiz generator that allows users to upload PDF files, e
 
 ```bash
 git clone https://github.com/alokmaurya013/Quizzoc.git
-cd quizzoc
+cd Quizzoc
 ```
 
 ### 2. Install dependencies
